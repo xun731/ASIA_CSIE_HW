@@ -1,0 +1,116 @@
+{
+    "黃金裔": [
+        {
+            "name": "昔璉",
+            "rarity": "SSR",
+            "id": 1
+        },
+        {
+            "name": "丹恆·騰荒",
+            "rarity": "SR",
+            "id": 2
+        },
+        {
+            "name": "長夜月",
+            "rarity": "SR",
+            "id": 3
+        },
+        {
+            "name": "緹寶",
+            "rarity": "SR",
+            "id": 4
+        },
+        {
+            "name": "白厄",
+            "rarity": "SR",
+            "id": 5
+        },
+        {
+            "name": "那刻夏",
+            "rarity": "R",
+            "id": 6
+        },
+        {
+            "name": "風堇",
+            "rarity": "R",
+            "id": 7
+        },
+        {
+            "name": "賽飛兒",
+            "rarity": "R",
+            "id": 8
+        },
+        {
+            "name": "遐蝶",
+            "rarity": "R",
+            "id": 9
+        },
+        {
+            "name": "海瑟音",
+            "rarity": "R",
+            "id": 10
+        },
+        {
+            "name": "刻律德菈",
+            "rarity": "R",
+            "id": 11
+        },
+        {
+            "name": "阿格萊雅",
+            "rarity": "R",
+            "id": 12
+        },
+        {
+            "name": "萬敵",
+            "rarity": "R",
+            "id": 13
+        }
+    ],
+    "水果": [
+        {
+            "name": "櫻桃",
+            "rarity": "SSR",
+            "id": 14
+        },
+        {
+            "name": "西瓜",
+            "rarity": "SR",
+            "id": 15
+        },
+        {
+            "name": "橘子",
+            "rarity": "SR",
+            "id": 16
+        },
+        {
+            "name": "葡萄",
+            "rarity": "SR",
+            "id": 17
+        },
+        {
+            "name": "蓮霧",
+            "rarity": "SR",
+            "id": 18
+        },
+        {
+            "name": "蘋果",
+            "rarity": "R",
+            "id": 19
+        },
+        {
+            "name": "水梨",
+            "rarity": "R",
+            "id": 20
+        },
+        {
+            "name": "榴槤",
+            "rarity": "R",
+            "id": 21
+        },
+        {
+            "name": "百香果",
+            "rarity": "R",
+            "id": 22
+        }
+    ]
+}
